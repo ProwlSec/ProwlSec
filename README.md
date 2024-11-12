@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Bug Bounty Tools<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning tool creations for security research<br>💬 Ask me about Hacking and Pentesting<br>⚡ Fun fact "I Don't know anything someone please help me"<br><br>
+🔭 I’m currently working on Bug Bounty Tools<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning tool creations for security research<br>💬 Ask me about Hacking and Pentesting<br>⚡ Fun fact "I Don't know anything someone please help me"<br><br>
 
 
 ## 🌐 Socials:
