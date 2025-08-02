@@ -20,7 +20,7 @@
 <a href="https://twitter.com/prowlsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prowlsec" height="30" width="40" /></a>
 <a href="https://instagram.com/prowlsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prowlsec" height="30" width="40" /></a>
 <a href="https://medium.com/@prowlsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prowlsec" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/prowlsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prowlsec" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@prowlsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prowlsec" height="30" width="40" /></a>
 <a href="https://discord.gg/EWz5DFMwJF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EWz5DFMwJF" height="30" width="40" /></a>
 </p>
 
